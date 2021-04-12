@@ -1,60 +1,15 @@
 {
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "Buenos Aires, Argentina",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/LatinStakePools/ITZA/main/LOGO%20A3%2064x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/LatinStakePools/ITZA/main/LOGO%20A2%20resize.png",
+        "location": "Argentina",
         "social": {
             "twitter_handle": "LatinStakePools",
             "telegram_handle": "LatinStakePools",
-            "facebook_handle": "",
-            "youtube_handle": "Latin Stake Pools",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-        "company": {
-            "name": "Latin Stake Pools",
-            "addr": "",
-            "city": "Buenos Aires",
-            "country": "Argentina",
-            "company_id": "",
-            "vat_id": ""
+            "youtube_handle": "channel/UC4nHVVcz6kqIC6m1STfhkkQ",
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "Welcome to Latin Stake Pool's first Cardano stake pool Chichen Itza. Latin Stake Pools in an Argentine start-up which aims to provide the people of Latin America with access to crypto passive income as well as quality educational content via the youtube channel.",
+            "server": "Three nodes, one block producer and two relays. Hosted in three different VPS with three different providers and in three different geographical locations for the best redundancy and uptime.",
         },
-        "rss": "http(s) url to valid RSS feed"
-    },
-    "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
-    }
 }
