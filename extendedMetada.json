@@ -11,5 +11,5 @@
         "about": {
             "me": "Welcome to Latin Stake Pool's first Cardano stake pool Chichen Itza. Latin Stake Pools in an Argentine start-up which aims to provide the people of Latin America with access to crypto passive income as well as quality educational content via the youtube channel.",
             "server": "Three nodes, one block producer and two relays. Hosted in three different VPS with three different providers and in three different geographical locations for the best redundancy and uptime.",
-        },
+        }
 }
