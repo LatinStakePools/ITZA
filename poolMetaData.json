@@ -1,6 +1,7 @@
 {
 "name": "Chichen Itza",
-"description": "Chichen Itza is the first stake pool by Latin Stake Pools, for the economic sovereignty of all Latin Americans and the Worlds citizens",
+"description": "Low fees 24/7 uptime for max profit! Check out Latin Stake Pools youtube channel for crypto educational videos",
 "ticker": "ITZA",
-"homepage": "https://latinstakepools.com/"
+"homepage": "https://latinstakepools.com/",
+"extended": "https://raw.githubusercontent.com/LatinStakePools/ITZA/main/extendedMetada.json"
 }
